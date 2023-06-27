@@ -1,1 +1,1 @@
-Aplikacja php umożliwiająca dodwanie klientów do bazy. 
+Aplikacja php umożliwiająca dodwanie klientów do bazy. Kod zrealizowany wyłącznie po stronie PHP oraz podstawowy Front. Program nie posiada aktualnie  podłączonej bazy danych w plikach repozytorium.  
