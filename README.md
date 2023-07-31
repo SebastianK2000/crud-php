@@ -19,6 +19,7 @@ CREATE TABLE `crud` (
 )
 
 W phpMyAdmin eksportować plik z bazą danych oraz tabelą oraz wkleić w folder. Należy pamiętać o włączeniu SQL oraz Apache!! 
+
 ![image](https://github.com/SebastianK2000/crud-php/assets/127401994/a8f5dc4a-5c8c-4e53-938b-5d3cf07c5ab8)
 
 ENG
@@ -42,4 +43,5 @@ CREATE TABLE `crud` (
 )
 
 In phpMyAdmin, export the database and table file and paste into a folder. Be sure to enable SQL and Apache!!! 
+
 ![image](https://github.com/SebastianK2000/crud-php/assets/127401994/a8f5dc4a-5c8c-4e53-938b-5d3cf07c5ab8)
