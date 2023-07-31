@@ -1,12 +1,12 @@
 <?php
+global $conn;
 include "db_conn.php";
-$id = $_GET['id'];
-$sql = "DELETE FROM 'crud' WHERE id = $id";
-$resul = mysqli_query($conn, $sql);
-if($result){
-    headre("Location: index.php?msg=Record deleted succesfully");
-}
-else {
+$id = $_GET["id"];
+$sql = "DELETE FROM `crud1` WHERE id = $id";
+$result = mysqli_query($conn, $sql);
+
+if ($result) {
+    header("Location: index.php?msg=Data deleted successfully");
+} else {
     echo "Failed: " . mysqli_error($conn);
 }
-?>
