@@ -1,4 +1,5 @@
 PL
+
 Aplikacja pozwala na dodawanie, edytowanie oraz usuwanie pozycji z bazy. 
 
 ![image](https://github.com/SebastianK2000/crud-php/assets/127401994/49088f34-69c4-4482-a304-607cbe35ba48)
